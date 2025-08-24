@@ -26,4 +26,4 @@ A modern, interactive clone of an Awwwards winning website, [zentry.com](https:/
 - **GSAP** – For high-performance animations and scroll effects
 - **Font Awesome** – For scalable vector icons
 - **React Router** – For client-side routing
-- **Vite** (or Create React App)
+- **Vite**
