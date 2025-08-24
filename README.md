@@ -1,12 +1,29 @@
-# React + Vite
+# Awwwards Clone – React & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Awwwards Clone Preview](./public/img/preview_1.png)
+![Awwwards Clone Preview](./public/img/preview_2.png)
+![Awwwards Clone Preview](./public/img/preview_3.png)
 
-Currently, two official plugins are available:
+A modern, interactive clone of an Awwwards winning website, [zentry.com](https://zentry.com/), built with **React.js**, styled with **Tailwind CSS**, animated with **GSAP**, and enhanced with **Font Awesome** icons. This project replicates the sleek design and smooth user experience of Awwwards, showcasing award-winning websites with a responsive, animated interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Responsive design using **Tailwind CSS**
+- 🖼️ Dynamic hero sections and animated elements
+- 🔗 Interactive navigation with hover effects
+- 🌐 Font Awesome icons for consistent, scalable UI elements
+- ⚛️ Built with **React.js** for component-based architecture
+- 📱 Fully mobile-responsive layout
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js** – For building a dynamic, component-driven UI
+- **Tailwind CSS** – For utility-first, responsive styling
+- **GSAP** – For high-performance animations and scroll effects
+- **Font Awesome** – For scalable vector icons
+- **React Router** – For client-side routing
+- **Vite** (or Create React App)
